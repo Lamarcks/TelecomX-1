@@ -121,3 +121,5 @@ Com base nos insights obtidos, recomenda-se:
 ## 👤 Autor
 
 Projeto desenvolvido por Ihago Lamarcks como parte do **Programa ONE — Oracle Next Education & Alura**.
+LinkedIn: www.linkedin.com/in/ihago-lamarcks1
+
